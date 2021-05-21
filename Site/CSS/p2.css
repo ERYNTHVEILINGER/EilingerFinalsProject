@@ -107,3 +107,26 @@ body
     left: 40%; 
     bottom: 60%;
 }
+li{
+    color: azure;
+    text-align: center;
+    font-size: 100%;
+    font-family: "ubuntu";
+    font-weight: 700;
+    display: inline-block;
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+    margin-right: auto;
+    margin-left: auto;
+    padding: 3px;
+    border-radius: 15px;
+}
+a:hover{ 
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.d10{
+    bottom: 30%;
+    position: relative;
+}
