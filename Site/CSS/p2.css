@@ -1,0 +1,109 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    box-sizing: border-box;
+    margin: 10px auto;
+}
+body
+{
+    background-image: url("../PICS/wp4893912.jpg");
+    height: 1000px;
+    background-color: rgb(17, 17, 17);
+    background-size: 1000% 1000%;
+    background-repeat: no-repeat;
+}
+#main{
+    width: 70%;
+    height: 200%;
+    border: 2pt rgb(255, 0, 0) solid;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+}
+.header{
+    color: azure;
+    text-align: center;
+    font-size: 1000%;
+    font-family: "ubuntu";
+    font-weight: 700;
+}
+.d1{
+    width: 300px;
+    height: 300px;
+    border: 2pt rgb(255, 0, 0) solid;
+    position: relative;
+    background-image: url("../PICS/22549494_535486943454319_7916095222561384969_n.jpg");
+    background-size: 101%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+
+    right: 30%;
+}
+.d2{
+    width: 300px;
+    height: 300px;
+    border: 2pt rgb(255, 0, 0) solid;
+    position: relative;
+    background-image: url("../PICS/29063064_598867223782957_7186432458982686720_n.jpg");
+    background-size: 101%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+
+    right: 30%;
+}
+.d3{
+    width: 300px;
+    height: 300px;
+    border: 2pt rgb(255, 0, 0) solid;
+    position: relative;
+    background-image: url("../PICS/50167491_796018057401205_5065344593357176832_n.jpg");
+    background-size: 101%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+
+    right: 30%;
+}
+.d4{
+    width: 300px;
+    height: 300px;
+    border: 2pt rgb(255, 0, 0) solid;
+    position: relative;
+    background-image: url("../PICS/67389391_924651737871169_5077992163942334464_n.jpg");
+    background-size: 101%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+ 
+    right: 30%;
+}
+.d5{
+    width: 300px;
+    height: 300px;
+    border: 2pt rgb(255, 0, 0) solid;
+    position: relative;
+    background-image: url("../PICS/78348925_1031428327193509_1556430602574495744_n.jpg");
+    background-size: 101%;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto; 
+
+    right: 30%;
+}
+.d6{
+    position: relative;
+    left: 40%; 
+    bottom: 70%;
+
+}
+.d7{
+    position: relative;
+    left: 40%; 
+    bottom: 60%;
+}
